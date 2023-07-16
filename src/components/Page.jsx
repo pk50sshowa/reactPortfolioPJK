@@ -3,7 +3,7 @@ import About from '../pages/About';
 import Projects from '../pages/Projects';
 
 const Page = ({ currentPage }) => {
-    switch (currentPage.name) {
+    switch (currentPage) {
         case 'Home':
             return <Home />;
         case 'About':
