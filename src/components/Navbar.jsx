@@ -1,17 +1,15 @@
-import React from 'react';
-
-const Navbar = ({ setpage, allPages }) => {
+const Navbar = ({ setCurrentPage, allPages }) => {
     return (
         <nav>
             {allPages.map(page => (
                 <button
                     key={page}
-                    onClick={() => { setpage(page) }}>
+                    onClick={() => {setCurrentPage(page)}}>
                     {page}
                 </button>
             ))}
         </nav>
-    )
+    );
 };
 
 export default Navbar;
