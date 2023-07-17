@@ -1,11 +1,11 @@
 import React from 'react';
 import "./Portfolio.css";
-import cinemaSearch from "../assets/cinema-search.jpg";
-import bdsm from "../assets/burgers-space-monkeys.jpg";
-import svgLogoMaker from "../assets/svg-logo-maker.jpg";
-import readmeGenerator from "../assets/readme-generator.jpg";
-import techBlogMVC from "../assets/tech-blog-mvc.jpg";
-import weatherChecker from "../assets/weather-checker.jpg";
+import cinemaSearch from "../assets/images/cinema-search.jpg";
+import bdsm from "../assets/images/burgers-space-monkeys.jpg";
+import svgLogoMaker from "../assets/images/svg-logo-maker.jpg";
+import readmeGenerator from "../assets/images/readme-generator.jpg";
+import techBlogMVC from "../assets/images/tech-blog-mvc.jpg";
+import weatherChecker from "../assets/images/weather-checker.jpg";
 
 const Portfolio = () => {
     const projects = [

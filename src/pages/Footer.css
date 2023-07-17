@@ -1,5 +1,5 @@
 footer {
-  position: floating;
+  position: sticky;
   bottom: 0;
   left: 0;
   width: 100%;
@@ -16,12 +16,6 @@ footer p {
 
 footer img {
   margin: 0 10px;
-}
-
-.footer-container {
-  background-color: blue;
-  padding: 20px;
-  text-align: center;
 }
 
 .social-links {

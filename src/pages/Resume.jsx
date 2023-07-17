@@ -2,8 +2,8 @@ import React from "react";
 import "./Resume.css";
 
 const Resume = () => {
-    const proficiencies = ['HTML5', 'CSS3', 'JavaScript ES6+', 'React'];
-    const backendProficiences = ['Node.js', 'Express.js', 'MongoDB', 'MySQL', 'NoSQL', 'Handlebars', 'JQuery', 'Bootstrap', 'MERN']
+    const proficiencies = ['HTML5', 'CSS3', 'JavaScript ES6+', 'React', 'Handlebars'];
+    const backendProficiences = ['Node.js', 'Express.js', 'MongoDB', 'MySQL', 'NoSQL', 'JQuery', 'Bootstrap', 'MERN']
 
     return (
         <section id="resume">
