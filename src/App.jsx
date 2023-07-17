@@ -4,8 +4,8 @@ import Page from './components/Page';
 import Footer from './pages/Footer';
 
 function App() {
-  const allPages = ['Home', 'About', 'Projects'];
-  const [currentPage, setCurrentPage] = useState('Home');
+  const allPages = ['About', 'Portfolio', 'Contact', 'Resume'];
+  const [currentPage, setCurrentPage] = useState('About');
 
   return (
     <div>

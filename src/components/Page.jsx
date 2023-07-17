@@ -1,17 +1,20 @@
-import Home from '../pages/Home';
 import About from '../pages/About';
-import Projects from '../pages/Projects';
+import Projects from '../pages/Portfolio';
+import Contact from '../pages/Contact';
+import Resume from '../pages/Resume';
 
 const Page = ({ currentPage }) => {
     switch (currentPage) {
-        case 'Home':
-            return <Home />;
         case 'About':
             return <About />;
-        case 'Projects':
+        case 'Portfolio':
             return <Projects />;
+        case 'Contact':
+            return <Contact />;
+        case 'Resume':
+            return <Resume />;
         default:
-            return <Home />;
+            return <About />;
     }
 };
 
