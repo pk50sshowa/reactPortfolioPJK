@@ -5,27 +5,27 @@ const Portfolio = () => {
     const projects = [
         {
             id: 1,
-            image: '',
+            image: '../assets/cinema-search.jpg',
             name: 'Cinema Search',
             deployedUrl: 'https://pk50sshowa.github.io/cinema-search/',
             repoUrl: 'https://www.github.com/pk50sshowa/cinema-search',
         },
         {
             id: 2,
-            image: '',
+            image: '../assets/burgers-space-monkeys.jpg',
             name: 'Burgers Delivered by Space Monkeys',
             deployedUrl: 'https://polar-cove-07937.herokuapp.com/',
             repoUrl: 'https://github.com/dustinii/BDSM',
         },
         {
             id: 3,
-            image: '',
+            image: '../assets/svg-logo-maker.jpg',
             name: 'SVG Logo Maker',
             repoUrl: 'https://github.com/pk50sshowa/SVGLogoMaker',
         },
         {
             id: 4,
-            image: '',
+            image: '../assets/readme-generator.jpg',
             name: 'README Generator',
             repoUrl: 'https://github.com/pk50sshowa/readmeGenerator',
         },
