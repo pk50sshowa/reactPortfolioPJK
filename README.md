@@ -1,6 +1,44 @@
-# Getting Started with Create React App
+# REACT PORTFOLIO PJK (PAUL J KOEHLER)
+
+## BADGE
+ ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
+
+## [DESCRIPTION](#description)
+This is my personal portfolio, running on React.js and showcasing my main projects.
+
+## SCREENSHOT
+![Screenshot](/src/assets/images/screenshot.jpg)
+
+## DEPLOYED URL
+https://pk50sshowa.github.io/reactPortfolioPJK/
+
+## [INSTALLATION](#installation)
+Follow the steps in [Getting Started](#gettingStarted) and deploy the app with the "npm run build" command. Make sure the homepage is properly set in the "package.json" file.
+
+## [USAGE](#usage)
+Run the command "npm start" to test the application build, then open the URL at https://pk50sshowa.github.io/reactPortfolioPJK/.
+
+## [LICENSE](#license)
+MIT
+
+## [CONTRIBUTING](#contributing)
+Please contact the author at paul.koehler@gmail.com
+
+## [TESTS](#tests)
+Feel free to experiment with the CSS and use different React themes for a greater visual experience if necessary.
+
+## [QUESTIONS](#questions)
+If you have any questions, please feel free to reach out to the author of this application at the following GitHub page and email address.
+
+https://github.com/pk50sshowa
+
+[paul.koehler@gmail.com](paul.koehler@gmail.com)
+
+# [Getting Started with Create React App](#gettingStarted)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Getting Started
 
 ## Available Scripts
 
