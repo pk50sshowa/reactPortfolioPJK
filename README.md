@@ -3,7 +3,7 @@
 ## BADGE
  ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-## [DESCRIPTION](#description)
+## DESCRIPTION
 This is my personal portfolio, running on React.js and showcasing my main projects.
 
 ## SCREENSHOT
@@ -12,22 +12,25 @@ This is my personal portfolio, running on React.js and showcasing my main projec
 ## DEPLOYED URL
 https://pk50sshowa.github.io/reactPortfolioPJK/
 
-## [INSTALLATION](#installation)
+## GITHUB REPOSITORY LOCATION
+https://github.com/pk50sshowa/reactPortfolioPJK
+
+## INSTALLATION
 Follow the steps in [Getting Started](#gettingStarted) and deploy the app with the "npm run build" command. Make sure the homepage is properly set in the "package.json" file.
 
-## [USAGE](#usage)
+## USAGE
 Run the command "npm start" to test the application build, then open the URL at https://pk50sshowa.github.io/reactPortfolioPJK/.
 
-## [LICENSE](#license)
+## LICENSE
 MIT
 
-## [CONTRIBUTING](#contributing)
+## CONTRIBUTING
 Please contact the author at paul.koehler@gmail.com
 
-## [TESTS](#tests)
+## TESTS
 Feel free to experiment with the CSS and use different React themes for a greater visual experience if necessary.
 
-## [QUESTIONS](#questions)
+## QUESTIONS
 If you have any questions, please feel free to reach out to the author of this application at the following GitHub page and email address.
 
 https://github.com/pk50sshowa
