@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/reactPortfolioPJK/static/css/main.073c9b0a.css",
-    "main.js": "/reactPortfolioPJK/static/js/main.6fd8b973.js",
+    "main.css": "/reactPortfolioPJK/static/css/main.28116648.css",
+    "main.js": "/reactPortfolioPJK/static/js/main.6bb9419c.js",
     "static/js/787.a6730bac.chunk.js": "/reactPortfolioPJK/static/js/787.a6730bac.chunk.js",
-    "static/media/logo.svg": "/reactPortfolioPJK/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/cinema-search.jpg": "/reactPortfolioPJK/static/media/cinema-search.ccce71d07907e8d9f34d.jpg",
+    "static/media/burgers-space-monkeys.jpg": "/reactPortfolioPJK/static/media/burgers-space-monkeys.82dab7e9ef6663db79d9.jpg",
+    "static/media/readme-generator.jpg": "/reactPortfolioPJK/static/media/readme-generator.5836df88925fa021025c.jpg",
+    "static/media/svg-logo-maker.jpg": "/reactPortfolioPJK/static/media/svg-logo-maker.0b8c592af7b3beafe6c9.jpg",
+    "static/media/weather-checker.jpg": "/reactPortfolioPJK/static/media/weather-checker.dae9806aea2cf2b2f3af.jpg",
+    "static/media/tech-blog-mvc.jpg": "/reactPortfolioPJK/static/media/tech-blog-mvc.22c96c50b979aa9f331c.jpg",
+    "static/media/PJK.jpg": "/reactPortfolioPJK/static/media/PJK.62627ea12e4e3fce124a.jpg",
     "index.html": "/reactPortfolioPJK/index.html",
-    "main.073c9b0a.css.map": "/reactPortfolioPJK/static/css/main.073c9b0a.css.map",
-    "main.6fd8b973.js.map": "/reactPortfolioPJK/static/js/main.6fd8b973.js.map",
+    "main.28116648.css.map": "/reactPortfolioPJK/static/css/main.28116648.css.map",
+    "main.6bb9419c.js.map": "/reactPortfolioPJK/static/js/main.6bb9419c.js.map",
     "787.a6730bac.chunk.js.map": "/reactPortfolioPJK/static/js/787.a6730bac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.6fd8b973.js"
+    "static/css/main.28116648.css",
+    "static/js/main.6bb9419c.js"
   ]
 }
