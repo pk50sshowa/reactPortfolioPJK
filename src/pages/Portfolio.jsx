@@ -5,7 +5,7 @@ import bdsm from "../assets/images/burgers-space-monkeys.jpg";
 import svgLogoMaker from "../assets/images/svg-logo-maker.jpg";
 import readmeGenerator from "../assets/images/readme-generator.jpg";
 import techBlogMVC from "../assets/images/tech-blog-mvc.jpg";
-import weatherChecker from "../assets/images/weather-checker.jpg";
+// import weatherChecker from "../assets/images/weather-checker.jpg";
 import HOMEZ from "../assets/images/homez.jpg";
 
 const Portfolio = () => {
