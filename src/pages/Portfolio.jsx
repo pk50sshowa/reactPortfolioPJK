@@ -6,6 +6,7 @@ import svgLogoMaker from "../assets/images/svg-logo-maker.jpg";
 import readmeGenerator from "../assets/images/readme-generator.jpg";
 import techBlogMVC from "../assets/images/tech-blog-mvc.jpg";
 import weatherChecker from "../assets/images/weather-checker.jpg";
+import HOMEZ from "../assets/images/homez.jpg";
 
 const Portfolio = () => {
     const projects = [
@@ -25,29 +26,29 @@ const Portfolio = () => {
         },
         {
             id: 3,
+            image: HOMEZ,
+            name: 'HOMEZ',
+            deployedUrl: 'https://homez-a7bb0a2adb47.herokuapp.com/',
+            repoUrl: 'https://github.com/dustinii/HOMEZ',
+        },
+        {
+            id: 4,
             image: svgLogoMaker,
             name: 'SVG Logo Maker',
             repoUrl: 'https://github.com/pk50sshowa/SVGLogoMaker',
         },
         {
-            id: 4,
+            id: 5,
             image: readmeGenerator,
             name: 'README Generator',
             repoUrl: 'https://github.com/pk50sshowa/readmeGenerator',
         },
         {
-            id: 5,
+            id: 6,
             image: techBlogMVC,
             name: 'Tech Blog MVC',
             deployedUrl: 'http://tech-blog-mvc-pjk.herokuapp.com/',
             repoUrl: 'https://github.com/pk50sshowa/techBlogMVC',
-        },
-        {
-            id: 6,
-            image: weatherChecker,
-            name: 'Weather Checker',
-            deployedUrl: 'https://pk50sshowa.github.io/weatherChecker/index.html',
-            repoUrl: 'https://github.com/pk50sshowa/weatherChecker',
         },
     ];
 
