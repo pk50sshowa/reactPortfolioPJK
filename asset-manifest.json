@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reactPortfolioPJK/static/css/main.28116648.css",
-    "main.js": "/reactPortfolioPJK/static/js/main.cedfd75f.js",
+    "main.js": "/reactPortfolioPJK/static/js/main.49d2374d.js",
     "static/js/787.a6730bac.chunk.js": "/reactPortfolioPJK/static/js/787.a6730bac.chunk.js",
     "static/media/cinema-search.jpg": "/reactPortfolioPJK/static/media/cinema-search.ccce71d07907e8d9f34d.jpg",
     "static/media/burgers-space-monkeys.jpg": "/reactPortfolioPJK/static/media/burgers-space-monkeys.82dab7e9ef6663db79d9.jpg",
@@ -12,11 +12,11 @@
     "static/media/PJK.jpg": "/reactPortfolioPJK/static/media/PJK.62627ea12e4e3fce124a.jpg",
     "index.html": "/reactPortfolioPJK/index.html",
     "main.28116648.css.map": "/reactPortfolioPJK/static/css/main.28116648.css.map",
-    "main.cedfd75f.js.map": "/reactPortfolioPJK/static/js/main.cedfd75f.js.map",
+    "main.49d2374d.js.map": "/reactPortfolioPJK/static/js/main.49d2374d.js.map",
     "787.a6730bac.chunk.js.map": "/reactPortfolioPJK/static/js/787.a6730bac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.28116648.css",
-    "static/js/main.cedfd75f.js"
+    "static/js/main.49d2374d.js"
   ]
 }
