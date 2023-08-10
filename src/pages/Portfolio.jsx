@@ -13,6 +13,7 @@ const Portfolio = () => {
             id: 1,
             image: cinemaSearch,
             name: 'Cinema Search',
+            description: 'This application searches for movies currently playing and nearby theaters, and it displays nearby theaters by taking a ZIP code input from the user.',
             deployedUrl: 'https://pk50sshowa.github.io/cinema-search/',
             repoUrl: 'https://www.github.com/pk50sshowa/cinema-search',
         },
@@ -20,6 +21,7 @@ const Portfolio = () => {
             id: 2,
             image: bdsm,
             name: 'Burgers Delivered by Space Monkeys',
+            description: 'Welcome to "Burgers Delivered by Space Monkeys" (BDSM)! This is a whimsical and interactive web application that allows users to order delicious burgers delivered by our adorable space monkey couriers.',
             deployedUrl: 'https://polar-cove-07937.herokuapp.com/',
             repoUrl: 'https://github.com/dustinii/BDSM',
         },
@@ -27,6 +29,7 @@ const Portfolio = () => {
             id: 3,
             image: HOMEZ,
             name: 'HOMEZ',
+            description: 'HOMEZ pairs riders with two drivers: One to take them home, and one to take their car home. Think of it as a ride share service with the extra convenience of taking your car home while getting you home safely. Such services are commonplace in countries like South Korea and Japan, so we thought that we\'d bring you a similar service here in the States!',
             deployedUrl: 'https://homez-a7bb0a2adb47.herokuapp.com/',
             repoUrl: 'https://github.com/dustinii/HOMEZ',
         },
@@ -34,18 +37,21 @@ const Portfolio = () => {
             id: 4,
             image: svgLogoMaker,
             name: 'SVG Logo Maker',
+            description: 'This project is a command line application that generates an SVG file based on user inputs, and also has a test package that checks to make sure the input conditions meet ideal conditions for the creation of SVG files.',
             repoUrl: 'https://github.com/pk50sshowa/SVGLogoMaker',
         },
         {
             id: 5,
             image: readmeGenerator,
             name: 'README Generator',
+            description: 'This is a command-line application used to generator a README file. The application uses the Inquirer package to prompt the user for information about the project, and then it generates a README file based on the user\'s responses.',
             repoUrl: 'https://github.com/pk50sshowa/readmeGenerator',
         },
         {
             id: 6,
             image: techBlogMVC,
             name: 'Tech Blog MVC',
+            description: 'This is a blog using the MVC framework to host tech-related articles. Users can post articles and store their login information as well.',
             deployedUrl: 'http://tech-blog-mvc-pjk.herokuapp.com/',
             repoUrl: 'https://github.com/pk50sshowa/techBlogMVC',
         },
@@ -61,6 +67,7 @@ const Portfolio = () => {
                             <img src={project.image} alt={project.name} width="20%" />
                         </a>
                         <div className="project-title">{project.name}</div>
+                        <div className="project-description">{project.description}</div>
                         <div className="project-links">
                             <a href={project.deployedUrl} target="_blank" rel="noopener noreferrer">Demo</a><br></br>
                             <a href={project.repoUrl} target="_blank" rel="noopener noreferrer">GitHub Repository</a>
