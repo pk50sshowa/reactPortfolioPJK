@@ -12,6 +12,8 @@
 .project {
   margin: 20px;
   text-align: center;
+  border-radius: 10px;
+  border: solid 5px;
 }
 
 .project img {
@@ -25,14 +27,28 @@
   font-weight: bold;
 }
 
+.project-technologies {
+  margin-top: 10px;
+  text-decoration: underline;
+}
+
+.project-description {
+  margin-top: 10px;
+  font-style: italic;
+}
+
 .project-links {
   margin-top: 10px;
 }
 
 .project-links a {
   margin-right: 10px;
-  color: black;
+  color: blue;
   text-decoration: none;
+}
+
+.project-links a:visited {
+  color: black;
 }
 
 .project-links a:hover {

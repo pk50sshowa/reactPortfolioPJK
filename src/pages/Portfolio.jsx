@@ -73,7 +73,7 @@ const Portfolio = () => {
                             <img src={project.image} alt={project.name} width="20%" />
                         </a>
                         <div className="project-title">{project.name}</div>
-                        <div className="project-technologies">{project.technologies}</div>
+                        <div className="project-technologies">Technologies Used: {project.technologies}</div>
                         <div className="project-description">{project.description}</div>
                         <div className="project-links">
                             <a href={project.deployedUrl} target="_blank" rel="noopener noreferrer">Demo</a><br></br>
