@@ -1,4 +1,4 @@
-# REACT PORTFOLIO PJK (PAUL J KOEHLER)
+# REACT PORTFOLIO (PAUL J KOEHLER)
 
 ## BADGE
  ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
